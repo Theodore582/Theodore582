@@ -52,6 +52,7 @@
   <br/>
     <a href="https://github.com/Theodore582/github-readme-stats"><img alt="Theodore's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theodore582&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Theodore582/github-readme-stats"><img alt="Theodore's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodore582&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href=![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Theodore582&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)><a/>
   <br/>
   
 
