@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://nextluxury.com/wp-content/uploads/led-desk-setup-ideas-exalted_setups.jpg" height="50px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.autonomous.ai/static/upload/images/new_post/inspiration-and-tips-for-your-ultimate-desk-gaming-pc-setup-645.jpg" height="50px"/></a>
 
-<h1 align="center">Hi <img src="https://nextluxury.com/wp-content/uploads/led-desk-setup-ideas-exalted_setups.jpg" width="30px">, I'm Theodore</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theodore</h1>
 
 
 
