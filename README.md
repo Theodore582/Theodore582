@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2022/05/29/20/27/reading-7229927_960_720.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theodore</h1>
+<h1 align="center">Hi <img src="https://nextluxury.com/wp-content/uploads/led-desk-setup-ideas-exalted_setups.jpg" width="30px">, I'm Theodore</h1>
 
 
 
