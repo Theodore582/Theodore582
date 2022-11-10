@@ -6,12 +6,12 @@
 
  ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Stuff**
-- 🌱 I’m currently learning **How to survive.**
+- 🔭 I’m currently working on **improving myself**
+<!-- - 🌱 I’m currently learning **How to survive.** -->
 
 - 📫 How to reach me **annettetheodore582@gmail.com**
 
-- ⚡ Fun fact **Accept who you are. Unless you’re a serial killer.**
+- ⚡ Fun fact **Pending Skater!!!**
   
   
   <br> 
